@@ -1,0 +1,3 @@
+#/bin/sh
+
+python /home/git/test.git/hooks/post-receive-web.py
